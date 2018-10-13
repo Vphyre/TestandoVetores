@@ -1,0 +1,7 @@
+E:\Projetos Visual Studio\ExemploVetor\ExemploVetor\ExemploVetor\bin\Debug\ExemploVetor.exe.config
+E:\Projetos Visual Studio\ExemploVetor\ExemploVetor\ExemploVetor\bin\Debug\ExemploVetor.exe
+E:\Projetos Visual Studio\ExemploVetor\ExemploVetor\ExemploVetor\bin\Debug\ExemploVetor.pdb
+E:\Projetos Visual Studio\ExemploVetor\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.csprojResolveAssemblyReference.cache
+E:\Projetos Visual Studio\ExemploVetor\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.csproj.CoreCompileInputs.cache
+E:\Projetos Visual Studio\ExemploVetor\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.exe
+E:\Projetos Visual Studio\ExemploVetor\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.pdb
